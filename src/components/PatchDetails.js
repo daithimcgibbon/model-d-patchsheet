@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 class PatchDetails extends Component {
   render() {
     return (
-      <div class="container">
+      <div className="container-fluid">
         <div class="row">
           <div class="col-3 border-left border-top border-dark p-2">
             DATE: <input type="text" class="border-0"/>
